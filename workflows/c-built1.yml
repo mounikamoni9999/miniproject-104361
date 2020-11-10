@@ -1,0 +1,23 @@
+name: C/C++ CI
+	
+
+	on:
+	  push:
+	    branches: [ master ]
+	  pull_request:
+	    branches: [ master ]
+	
+
+	jobs:
+	  build:
+	
+
+	    runs-on: dev c++
+	
+
+	    steps:
+	    - uses: actions/checkout@v2
+	      
+	    - name: make all
+	      run:  make all -C MiniProject_104361/3_Implementation/
+
