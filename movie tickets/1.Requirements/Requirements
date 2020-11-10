@@ -1,0 +1,19 @@
+Requirements
+1.	CodeBlocks IDE is used to write and execute the code.
+2.	GNU GCC compiler is needed to compile the code.
+3.	Notepad++ is required to write the makefile.
+4.	Command Prompt is used to run the makefile.
+5.	Doxywizard is used for documentation purpose and in order to generate the html output.
+
+The hardware and software requirements of online movie ticket booking using c-programming is given below
+Hardware Requirement: 
+1.	Intel Pentium 3 processor or higher
+2.	 RAM 256 MB 
+3.	40 GB HDD (Hard Disk)
+4.	 CD Drive 16X or higher 
+SOFTWARE REQUIREMENTS
+a.	  Web Browser :- Google Chrome
+b.	   Documentation :- MS Word 2007
+c.	    Project presentation :- MS PowerPoint 2007
+d.	     Coding Platform: Dev c++
+
